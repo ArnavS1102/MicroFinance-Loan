@@ -18,4 +18,8 @@ Business Context:
 Farmers are not bound to provide milk to the food company. They can provide a portion of overall milk production to the food company, skip weeks or cease supply altogether whenever they want.
 Farmers with high milk supply can be offered higher loans. Therefore it is preferable to target them whenever possible.
 
+farmers_salary_transactions was the dataset provided.
+
+Revised_farmers(1) is the dataset which contains the loans disbursed to farmers.
+
 
